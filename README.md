@@ -1,8 +1,33 @@
-- 👋 Hi, I’m @AlexanderPacheco
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Soy @AlexanderPacheco
+- 👀 Estoy interesando en mostrar mis capacidades en el area de desarrollo.
+- 🌱 Actualmente estoy aprendiendo y mejorando mi conocimiento en tecnologias como Angular, Nodejs y servicios en la nube.
+- 📫 Pueden contactarme a mi correo alexixva@gmail.com
+
+
+## Portafolio de proyectos.
+
+### Proyectos Individuales
+
+
+
+>Proyectos desarrollados en C# .Net para el curso de compiladores 2
+>>https://github.com/OLC2/proyecto1_compi_pascal.git
+
+
+### Proyectos en equipo.
+
+>Proyecto creado bajo metodologia scrum y desarrollado en framework Django, conexion a base de datos MySQL para guardar informacion de una clinica medica (Crear citas, recetas y gestion de reporteria)
+>>https://proyecto1analisis1.wordpress.com
+>Codigo de desarrollo
+>>https://github.com/Analisis-y-Diseno-1/calendariocitas.git
+
+>Proyecto desarrollado para interactuar con servicios de Amazon AWS, especialmente con servicios S3, RDS, EC2 y Rekognition.
+>Frontend: Angular, npm.
+>>https://github.com/alexdevep/semi1_practica1_front.git
+>Backend: Nodejs, npm y express.
+>>https://github.com/alexdevep/semi1-practica1.git
+
+- 👀 He desarrollado en Visual Basic .NET (.vb), C# .NET con servicios de API y FEL.
 
 <!---
 AlexanderPacheco/AlexanderPacheco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
