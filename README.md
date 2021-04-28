@@ -22,12 +22,15 @@
 
 >Proyecto creado bajo metodologia scrum y desarrollado en framework Django, conexion a base de datos MySQL para guardar informacion de una clinica medica (Crear citas, recetas y gestion de reporteria)
 >>https://proyecto1analisis1.wordpress.com
+
 >Codigo de desarrollo
 >>https://github.com/Analisis-y-Diseno-1/calendariocitas.git
 
 >Proyecto desarrollado para interactuar con servicios de Amazon AWS, especialmente con servicios S3, RDS, EC2 y Rekognition.
+
 >Frontend: Angular, npm.
 >>https://github.com/alexdevep/semi1_practica1_front.git
+
 >Backend: Nodejs, npm y express.
 >>https://github.com/alexdevep/semi1-practica1.git
 
