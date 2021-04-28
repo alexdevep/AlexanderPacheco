@@ -1,6 +1,6 @@
 - 👋 Soy @AlexanderPacheco
 - 👀 Estoy interesando en mostrar mis capacidades en el area de desarrollo. Tengo experiencia en el ambito laboral y muy competitivo.
-- 🌱 Actualmente estoy aprendiendo y mejorando mi conocimiento en tecnologias como Angular, Nodejs y servicios en la nube.
+- 🌱 Tengo conocimiento en tecnologias como Angular, Nodejs, Django, React y servicios en la nube (AWS).
 - 📫 Pueden contactarme a mi correo alexixva@gmail.com
 
 
