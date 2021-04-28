@@ -1,5 +1,5 @@
 - 👋 Soy @AlexanderPacheco
-- 👀 Estoy interesando en mostrar mis capacidades en el area de desarrollo.
+- 👀 Estoy interesando en mostrar mis capacidades en el area de desarrollo. Tengo experiencia en el ambito laboral y muy competitivo.
 - 🌱 Actualmente estoy aprendiendo y mejorando mi conocimiento en tecnologias como Angular, Nodejs y servicios en la nube.
 - 📫 Pueden contactarme a mi correo alexixva@gmail.com
 
@@ -8,9 +8,13 @@
 
 ### Proyectos Individuales
 
+>CRUD a base de datos relacional, funciones y triggers
+>>https://github.com/alexdevep/BaseDatos.git
 
+>Proyecto desarrollado en C# .Net para el curso de compiladores 2
+>>https://github.com/OLC2/proyecto1.git
 
->Proyectos desarrollados en C# .Net para el curso de compiladores 2
+>Proyecto desarrollado en C# .Net para el curso de compiladores 2
 >>https://github.com/OLC2/proyecto1_compi_pascal.git
 
 
@@ -27,7 +31,8 @@
 >Backend: Nodejs, npm y express.
 >>https://github.com/alexdevep/semi1-practica1.git
 
-- 👀 He desarrollado en Visual Basic .NET (.vb), C# .NET con servicios de API y FEL.
+- 👀 He desarrollado en Visual Basic .NET (.vb), C/C++, C# .NET con servicios de API y FEL.
+- 👀 He consumido base de datos Oracle, PostgreSQL, MySQL, DynamoDB, MongoDB.
 
 <!---
 AlexanderPacheco/AlexanderPacheco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
